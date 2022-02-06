@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mygl1JS+C9jfktmcmk6JrrtjZrtUUvlLmCy6U9nfV5L4kKOXrvQKa+v73m1OBoi+/5v1+UU5Qj/xarHst+lAsQ==",
+  "success": true,
+  "projectFilePath": "/home/zacharym/Documents/projects/powerpointTranslater/powerpointTranslater.csproj",
+  "expectedPackageFiles": [
+    "/home/zacharym/.nuget/packages/documentformat.openxml/2.15.0/documentformat.openxml.2.15.0.nupkg.sha512",
+    "/home/zacharym/.nuget/packages/system.io.packaging/4.7.0/system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
